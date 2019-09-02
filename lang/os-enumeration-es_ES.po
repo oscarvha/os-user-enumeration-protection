@@ -1,0 +1,35 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Adora User Enumeration Protection\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-07-30 11:26+0000\n"
+"PO-Revision-Date: 2019-07-30 11:28+0000\n"
+"Last-Translator: adora <ismael@bitmarketing.com>\n"
+"Language-Team: Español\n"
+"Language: es_ES\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/"
+
+#: adora-user-enumeration-protection.php:30
+msgid "<strong>ERROR</strong>: Invalid username/password combination."
+msgstr "<strong>ERROR</strong>:  Combinación usuario/contraseña inválida"
+
+#. Name of the plugin
+msgid "Adora User Enumeration Protection"
+msgstr ""
+
+#. Author of the plugin
+msgid "AdoraMedia"
+msgstr ""
+
+#. URI of the plugin
+#. Author URI of the plugin
+msgid "http://www.adoramedia.com"
+msgstr ""
+
+#. Description of the plugin
+msgid "Protege el formulario de Login ante la enumeración de usuarios"
+msgstr ""
