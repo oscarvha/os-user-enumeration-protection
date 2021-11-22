@@ -59,6 +59,12 @@ function author_page_redirect() {
 
 function check_admin_api_rest($result) {
 
+    if($_POST) {
+        if(isset($_POST['_wpcf7'])) {
+            return $result;
+        }
+    }
+    
     if ( ! empty( $result ) ) {
         return $result;
     }
